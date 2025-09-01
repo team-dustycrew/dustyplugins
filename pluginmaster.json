@@ -3,7 +3,7 @@
         "Author": "dustycrew",
         "Name": "Moonlight",
         "InternalName": "Moonlight",
-        "AssemblyVersion": "0.12.3.0",
+        "AssemblyVersion": "0.12.4.0",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/team-dustycrew/moonlight-sync",
@@ -22,12 +22,12 @@
         "Punchline": "THE MOON LIVES ON",
         "Changelog": "",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.4/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.4/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1756746127"
+        "LastUpdate": "1756748268"
     },
 ]
