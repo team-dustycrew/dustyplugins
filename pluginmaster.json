@@ -1,33 +1,29 @@
-[
-    {
-        "Author": "dustycrew",
-        "Name": "Moonlight",
-        "InternalName": "Moonlight",
-        "AssemblyVersion": "0.12.4.0",
-        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/team-dustycrew/moonlight-sync",
-        "CategoryTags": [
-          "customization"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "ImageUrls": [
-          
-        ],
-        "IconUrl": "",
-        "Punchline": "THE MOON LIVES ON",
-        "Changelog": "",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.4/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.4/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1756748268"
-    },
-]
+{
+  "Author": "dustycrew",
+  "Name": "Moonlight",
+  "InternalName": "Moonlight",
+  "AssemblyVersion": "0.12.5.2",
+  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/team-dustycrew/moonlight-sync",
+  "CategoryTags": [
+    "customization"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "THE MOON LIVES ON",
+  "Changelog": "",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.5.2/l",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkTesting": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.5.2/l",
+  "DownloadLinkUpdate": "https://github.com/team-dustycrew/moonlight-sync/releases/download/v0.12.5.2/l",
+  "DownloadCount": 0,
+  "LastUpdate": "1756748268"
+}
