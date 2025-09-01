@@ -3,7 +3,7 @@
         "Author": "dustycrew",
         "Name": "Moonlight",
         "InternalName": "Moonlight",
-        "AssemblyVersion": "0.12.2.0",
+        "AssemblyVersion": "0.12.3.0",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/team-dustycrew/moonlight-sync",
